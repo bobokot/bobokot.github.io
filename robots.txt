@@ -3,4 +3,5 @@ Allow: /
 
 
 
-Sitemap: https://bobokot.github.io/sitemap.xml
+
+Sitemap: https://bobokot.github.io/sitemapx.xml
