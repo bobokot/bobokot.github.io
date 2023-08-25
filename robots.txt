@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+
+
+Sitemap: https://bobokot.github.io/sitemap.xml
